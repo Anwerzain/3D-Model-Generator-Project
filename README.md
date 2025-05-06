@@ -1,8 +1,6 @@
 # 3D-Model-Generator-Project
 A Python tool to convert images/text into 3D printable models
 
-# 3D Model Generation Assignment
-
 ## 📝 Project Description
 This project converts either:
 - An **image input** (JPEG/PNG) of a single object (e.g., chair, car) 
